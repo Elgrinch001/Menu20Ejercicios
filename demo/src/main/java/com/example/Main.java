@@ -8,7 +8,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("\n--- MENÚ DE EJERCICIOS ---");
+            System.out.println("---MENÚ DE EJERCICIOS ---");
             System.out.println("1. Comparación de a y b");
             System.out.println("2. Número par o impar");
             System.out.println("3. Estado del agua");
